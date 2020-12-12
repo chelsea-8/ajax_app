@@ -23,5 +23,3 @@ class PostsController < ApplicationController
   end
 end
 
-function check() {}
-window.addEventListener("load", check);
